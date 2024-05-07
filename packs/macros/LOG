@@ -1,5 +1,3 @@
-2024/05/06-17:35:52.345 1ff4 Recovering log #3
-2024/05/06-17:35:52.346 1ff4 Level-0 table #5: started
-2024/05/06-17:35:52.391 1ff4 Level-0 table #5: 2083 bytes OK
-2024/05/06-17:35:52.602 1ff4 Delete type=0 #3
-2024/05/06-17:35:52.603 1ff4 Delete type=3 #2
+2024/05/07-06:12:44.925 12bc Recovering log #32
+2024/05/07-06:12:45.205 12bc Delete type=0 #32
+2024/05/07-06:12:45.206 12bc Delete type=3 #31

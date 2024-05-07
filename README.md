@@ -1,4 +1,10 @@
 # Ker Nathalas CSB
 Ker Nathalas Foundry Compendium Pack. **No copyrighted material contained in this module.** Requires Ker Nathalas game and Custom System Builder.
 
-It is reccomended to use the Custom CSS module to setup the css styles used by this module. The module folder contains a file named kncsbstyles.css which can be opened in a text editor and the contents copy/pasted to Custom CSS Rules Global Styles inside the Foundry VTT Configure Settings window.
+## Install Guide
+**IMPORTANT: Check the *Keep Document IDs* checkbox when importing the templates or the equipable containers will not be restored correctly.**
+
+* After enabling the module "KerNathalasCSB", import the compendiums.
+* Create masteries using the *_mastery* template.
+* Create weapons using the *_weapon** template.
+* Create a new character actor and set the template to *_Character* if you want to be able to drag/drop weapons and mastery onto the character sheet. Use the *_Character.1* template if you want to type in the weapon and masteries manually.
