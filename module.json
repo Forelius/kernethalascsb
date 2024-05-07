@@ -9,58 +9,64 @@
   "authors": [
     {
       "name": "Forelius",
-      "discord": "forelius",
-      "flags": {}
+      "discord": "forelius"
     }
   ],
+"manifest": "https://raw.githubusercontent.com/Forelius/kernathalascsb/main/module.json",
+	"download": "https://github.com/Forelius/kernathalascsb/releases/download/v1.0.0/kernathalascsb.zip",
+  "url": "https://github.com/Forelius/kernathalascsb",	
   "packs": [
     {
       "name": "macros",
       "label": "KN Macros",
       "path": "packs/macros",
       "type": "Macro",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "custom-system-builder",
-      "flags": {}
+      }
     },
     {
       "name": "kn-actor-templates",
       "label": "KN Actor Templates",
       "path": "packs/kn-actor-templates",
       "type": "Actor",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "custom-system-builder",
-      "flags": {}
+      }
     },
     {
       "name": "kn-item-templates",
       "label": "KN Item Templates",
       "path": "packs/kn-item-templates",
       "type": "Item",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "custom-system-builder",
-      "flags": {}
+      }
     },
     {
       "name": "kn-rolltables",
       "label": "KN Rolltables",
       "path": "packs/kn-rolltables",
       "type": "RollTable",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "custom-system-builder",
-      "flags": {}
+      }
     }
-  ]
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "custom-system-builder",
+        "type": "system"
+      }
+    ]
+  }
 }
