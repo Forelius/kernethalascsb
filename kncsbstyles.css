@@ -1,0 +1,121 @@
+/* Custom CSS */
+.slash {
+	padding: 0;
+	margin: 0;
+	width: 10px;
+}
+.number-col {
+	width: 20px;
+}
+.tight-field {
+	margin-left: 2px;
+}
+.tight-panel {
+	padding: 0;
+	margin: 0;
+}
+.tight-panel-tm {
+	padding: 0;
+	margin: 2px 0 0 0;
+}
+.small-table table td {
+	padding: 1px;
+	margin: 0;
+}
+.attr-label {
+	width: 120px;
+	margin: 0;
+	padding: 0;
+	font-weight:800;
+	font-size:18px;
+}
+.attr-field {
+	width:40px;
+	margin:1px 0 1px 0;
+	font-size:18px;
+}
+.attr-field2 {
+	margin:1px 0 1px 42px !important;
+	font-size:18px;
+	width:60px;
+}
+.attr-panel {
+	padding: 4px 2px;
+	min-width:238px;
+	border: 1px solid #404040;
+	border-radius: 4px;
+	margin-bottom:2px;
+}
+.char-table td {
+	vertical-align: top;
+}
+.skill-panel {
+	padding: 4px 2px;
+	border: 1px solid #404040;
+	border-radius: 4px;	
+	margin-bottom:2px;
+	gap: 0;
+}
+.skill-row {
+	border-top: 1px solid #777;
+	margin: 0;
+	padding: 0;
+	gap: 0;
+}
+.skill-col-1 {
+	border-right: 1px solid #777;
+	margin: 0;
+	padding: 2px;
+}
+.skill-col-2 {
+	margin: 0;
+	padding: 2px;
+}
+.skill-field {
+	width:30px
+}
+.skill-cb input {
+	margin: 0 2px 0 0;
+	width: 16px;
+	height: 16px;
+}
+.skill-label {
+	font-weight:600;
+}
+.extras-panel {
+	border: 1px solid #404040;
+	border-radius: 4px;
+	padding-top:4px;
+}
+.bordered-table td {
+	border-top: 1px solid #888;
+	margin: 0;
+	padding: 0;
+	gap: 0;
+}
+.small-font {
+	font-size:12px;
+}
+.custom-system-field-root {
+	margin-left: 4px;
+}
+.backpack td{
+	border-top: 1px solid #888;
+	margin: 0;
+	padding: 2px 0;
+	gap: 0;
+}
+.backpack td:first-child {
+	width: 25px;
+}
+.vertical-middle, .vertical-middle td {
+	vertical-align: middle;
+}
+.overseer-col1 {
+	width:200px;
+	flex: none;
+}
+.masteries td {
+	vertical-align: top;
+	width: 50%;
+}
