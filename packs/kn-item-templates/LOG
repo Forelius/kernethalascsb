@@ -1,3 +1,5 @@
-2024/05/07-17:30:10.865 3fac Recovering log #21
-2024/05/07-17:30:11.098 3fac Delete type=0 #21
-2024/05/07-17:30:11.099 3fac Delete type=3 #20
+2024/05/08-18:29:42.870 7eac Recovering log #29
+2024/05/08-18:29:42.871 7eac Level-0 table #31: started
+2024/05/08-18:29:42.948 7eac Level-0 table #31: 50711 bytes OK
+2024/05/08-18:29:43.139 7eac Delete type=0 #29
+2024/05/08-18:29:43.140 7eac Delete type=3 #28
