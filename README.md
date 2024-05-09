@@ -1,5 +1,5 @@
-# Ker Nathalas CSB
-Ker Nathalas Foundry Compendium Pack. **No copyrighted material contained in this module.** Requires Ker Nathalas game and Custom System Builder.
+# Ker Nathalas for CSB (unofficial)
+Ker Nathalas Foundry VTT Compendium Pack. **No copyrighted material contained in this module.** Requires Ker Nathalas game and Custom System Builder. Compatible with Foundry v11+
 
 ## Install Guide
 **IMPORTANT: Check the *Keep Document IDs* checkbox when importing the templates or the equipable containers will not be restored correctly.**
