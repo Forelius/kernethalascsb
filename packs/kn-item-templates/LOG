@@ -1,5 +1,3 @@
-2024/05/08-18:29:42.870 7eac Recovering log #29
-2024/05/08-18:29:42.871 7eac Level-0 table #31: started
-2024/05/08-18:29:42.948 7eac Level-0 table #31: 50711 bytes OK
-2024/05/08-18:29:43.139 7eac Delete type=0 #29
-2024/05/08-18:29:43.140 7eac Delete type=3 #28
+2024/05/10-10:51:51.067 44d4 Recovering log #41
+2024/05/10-10:51:51.270 44d4 Delete type=0 #41
+2024/05/10-10:51:51.271 44d4 Delete type=3 #39

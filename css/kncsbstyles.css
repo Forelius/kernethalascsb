@@ -1,4 +1,21 @@
 /* Custom CSS */
+.custom-system-actor {
+	 background: url('../assets/grunge2.jpg');
+	 color: #fafafa;
+}
+.custom-system-actor input, .custom-system-actor select {
+	color: #fafafa;
+}
+.custom-system-actor a.content-link, .custom-system-actor input[type="button"] {
+	background-color: #303030;
+}
+.custom-system-actor .custom-system-rollable {
+	color: #ff4040;
+}
+.custom-system-actor table tr:nth-child(even) {
+    background-color: rgba(10, 10, 10, 0.6);
+}
+
 .slash {
 	padding: 0;
 	margin: 0;
