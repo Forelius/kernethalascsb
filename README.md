@@ -4,6 +4,8 @@ Ker Nathalas Foundry VTT Compendium Pack. **No copyrighted material contained in
 ## Install Guide
 **IMPORTANT: Check the *Keep Document IDs* checkbox when importing the templates or the equipable containers will not be restored correctly.**
 
+**Manifest Url:** https://raw.githubusercontent.com/Forelius/kernathalascsb/main/module.json
+
 * After enabling the module "KerNathalasCSB", import the compendiums.
 * Create masteries using the *_mastery* template.
 * Create weapons using the *_weapon** template.
