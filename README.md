@@ -4,7 +4,12 @@ Ker Nathalas Foundry VTT Compendium Pack. **No copyrighted material contained in
 ## Install Guide
 **IMPORTANT: Check the *Keep Document IDs* checkbox when importing the templates or the equipable containers will not be restored correctly.**
 
+**Manifest Url:** https://raw.githubusercontent.com/Forelius/kernathalascsb/main/module.json
+
 * After enabling the module "KerNathalasCSB", import the compendiums.
 * Create masteries using the *_mastery* template.
 * Create weapons using the *_weapon** template.
+* Use the __lore_ template for lore.
+* Use the __relic_ template for all non-weapon relics.
+* The __relicWeapon_ template should be used for relics that are weapons.
 * Create a new character actor and set the template to *_Character* if you want to be able to drag/drop weapons and mastery onto the character sheet. Use the *_Character.1* template if you want to type in the weapon and masteries manually.
