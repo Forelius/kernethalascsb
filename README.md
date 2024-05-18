@@ -1,5 +1,5 @@
 # Ker Nathalas for CSB (unofficial)
-Ker Nathalas Foundry VTT Compendium Pack. **No copyrighted material contained in this module.** Requires Ker Nathalas game and Custom System Builder. Compatible with Foundry v11+
+This is an unnofficial module that makes it possible to play **Ker Nathalas: Into the Midnight Throne** on Foundry VTT. _No copyrighted material contained in this module._ Requires Ker Nathalas game (book or pdf) and Custom System Builder. Compatible with Foundry v11+
 
 ## Install Guide
 **IMPORTANT: Check the *Keep Document IDs* checkbox when importing the templates or the equipable containers will not be restored correctly.**
