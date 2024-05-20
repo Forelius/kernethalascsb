@@ -1,64 +1,64 @@
 {
-  "id": "kernathalascsb",
-  "title": "KerNathalasCSB",
-  "version": "1.1.0",
-  "compatibility": {
-    "minimum": "11",
-    "verified": "11"
-  },
-  "authors": [
-    {
-      "name": "Forelius",
-      "discord": "forelius"
-    }
-  ],
-    "scripts": [ "scripts/setup.js" ],
-    "styles": [ "css/kncsbstyles.css" ],
-  "manifest": "https://raw.githubusercontent.com/Forelius/kernathalascsb/main/module.json",
-  "download": "https://github.com/Forelius/kernathalascsb/releases/download/v1.1.0/kernathalascsb.zip",
-  "url": "https://github.com/Forelius/kernathalascsb",
-  "packs": [
-    {
-      "name": "macros",
-      "label": "KN Macros",
-      "path": "packs/macros",
-      "type": "Macro",
-      "system": "custom-system-builder",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "kn-actor-templates",
-      "label": "KN Actor Templates",
-      "path": "packs/kn-actor-templates",
-      "type": "Actor",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "custom-system-builder"
-    },
-    {
-      "name": "kn-item-templates",
-      "label": "KN Item Templates",
-      "path": "packs/kn-item-templates",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "custom-system-builder"
-    }
-  ],
-  "relationships": {
-    "systems": [
-      {
-        "id": "custom-system-builder",
-        "type": "system",
-        "compatibility": {}
-      }
-    ]
-  }
+	"id": "kernethalascsb",
+	"title": "KerNethalasCSB",
+	"version": "1.1.1",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "11"
+	},
+	"authors": [
+		{
+			"name": "Forelius",
+			"discord": "forelius"
+		}
+	],
+	"scripts": [ "scripts/setup.js" ],
+	"styles": [ "css/kncsbstyles.css" ],
+	"manifest": "https://raw.githubusercontent.com/Forelius/kernethalascsb/main/module.json",
+	"download": "https://github.com/Forelius/kernethalascsb/releases/download/v1.1.1/kernethalascsb.zip",
+	"url": "https://github.com/Forelius/kernethalascsb",
+	"packs": [
+		{
+			"name": "macros",
+			"label": "KN Macros",
+			"path": "packs/macros",
+			"type": "Macro",
+			"system": "custom-system-builder",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			}
+		},
+		{
+			"name": "kn-actor-templates",
+			"label": "KN Actor Templates",
+			"path": "packs/kn-actor-templates",
+			"type": "Actor",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "custom-system-builder"
+		},
+		{
+			"name": "kn-item-templates",
+			"label": "KN Item Templates",
+			"path": "packs/kn-item-templates",
+			"type": "Item",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "custom-system-builder"
+		}
+	],
+	"relationships": {
+		"systems": [
+			{
+				"id": "custom-system-builder",
+				"type": "system",
+				"compatibility": {}
+			}
+		]
+	}
 }

@@ -4,7 +4,7 @@ This is an unnofficial module that makes it possible to play **Ker Nethalas: Int
 ## Install Guide
 **IMPORTANT: Check the *Keep Document IDs* checkbox when importing the templates or the equipable containers will not be restored correctly.**
 
-**Manifest Url:** https://raw.githubusercontent.com/Forelius/kernathalascsb/main/module.json
+**Manifest Url:** https://raw.githubusercontent.com/Forelius/kernethalascsb/main/module.json
 
 * After enabling the module "KerNethalasCSB", import the compendiums.
 * Create masteries using the *_mastery* template.

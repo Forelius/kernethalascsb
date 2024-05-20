@@ -15,7 +15,9 @@
 .custom-system-actor table tr:nth-child(even) {
     background-color: rgba(10, 10, 10, 0.6);
 }
-
+.italics {
+	font-style: italic;
+}
 .slash {
 	padding: 0;
 	margin: 0;

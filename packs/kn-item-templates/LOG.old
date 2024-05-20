@@ -1,3 +1,8 @@
-2024/05/15-18:57:46.195 3c24 Recovering log #111
-2024/05/15-18:57:46.421 3c24 Delete type=0 #111
-2024/05/15-18:57:46.421 3c24 Delete type=3 #110
+2024/05/20-10:52:23.778 58e0 Recovering log #143
+2024/05/20-10:52:24.072 58e0 Delete type=0 #143
+2024/05/20-10:52:24.073 58e0 Delete type=3 #141
+2024/05/20-10:53:14.051 3edc Level-0 table #148: started
+2024/05/20-10:53:14.051 3edc Level-0 table #148: 0 bytes OK
+2024/05/20-10:53:14.176 3edc Delete type=0 #146
+2024/05/20-10:53:14.331 3edc Manual compaction at level-0 from '!items!0QgzyqklSbogSUQK' @ 72057594037927935 : 1 .. '!items!qoajvhu9ouTQYz7N' @ 0 : 0; will stop at (end)
+2024/05/20-10:53:14.418 3edc Manual compaction at level-1 from '!items!0QgzyqklSbogSUQK' @ 72057594037927935 : 1 .. '!items!qoajvhu9ouTQYz7N' @ 0 : 0; will stop at (end)
