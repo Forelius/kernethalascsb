@@ -6,7 +6,7 @@ This is an unnofficial module that makes it possible to play **Ker Nethalas: Int
 
 **Manifest Url:** https://raw.githubusercontent.com/Forelius/kernathalascsb/main/module.json
 
-* After enabling the module "KerNathalasCSB", import the compendiums.
+* After enabling the module "KerNethalasCSB", import the compendiums.
 * Create masteries using the *_mastery* template.
 * Create weapons using the *_weapon** template.
 * Use the __lore_ template for lore.
