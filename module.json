@@ -58,7 +58,7 @@
 			{
 				"id": "custom-system-builder",
 				"type": "system",
-				"manifest": "https://gitlab.com/custom-system-builder/custom-system-builder/-/raw/main/system.json"
+				"manifest": "https://gitlab.com/custom-system-builder/custom-system-builder/-/raw/main/system.json",
 				"compatibility": {
 					"minimum": "3.0.0",
 					"verified": "3.0.0"
