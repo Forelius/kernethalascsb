@@ -1,3 +1,5 @@
-/kernathalascsb.zip
 .vs
 /kernethalascsb.zip
+*.old
+LOCK
+*.log
