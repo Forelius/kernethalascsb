@@ -1,7 +1,7 @@
 {
 	"id": "kernethalascsb",
 	"title": "KerNethalasCSB",
-	"version": "1.1.6",
+	"version": "1.1.5",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "12",
@@ -16,7 +16,7 @@
 	"esmodules": [ "scripts/setup.js" ],
 	"styles": [ "css/kncsbstyles.css" ],
 	"manifest": "https://raw.githubusercontent.com/Forelius/kernethalascsb/main/module.json",
-	"download": "https://github.com/Forelius/kernethalascsb/releases/download/v1.1.6/kernethalascsb.zip",
+	"download": "https://github.com/Forelius/kernethalascsb/releases/download/v1.1.5/kernethalascsb.zip",
 	"url": "https://github.com/Forelius/kernethalascsb",
 	"license": "https://raw.githubusercontent.com/Forelius/kernethalascsb/main/LICENSE",
 	"packs": [
