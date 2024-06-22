@@ -16,7 +16,7 @@
 	"esmodules": [ "scripts/setup.js" ],
 	"styles": [ "css/kncsbstyles.css" ],
 	"manifest": "https://raw.githubusercontent.com/Forelius/kernethalascsb/main/module.json",
-	"download": "https://github.com/Forelius/kernethalascsb/releases/download/v1.1.7/kernethalascsb.zip",
+	"download": "https://github.com/Forelius/kernethalascsb/releases/download/1.1.7/kernethalascsb.zip",
 	"url": "https://github.com/Forelius/kernethalascsb",
 	"license": "https://raw.githubusercontent.com/Forelius/kernethalascsb/main/LICENSE",
 	"packs": [
