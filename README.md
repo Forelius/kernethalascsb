@@ -6,7 +6,8 @@ This is an unnofficial module that makes it possible to play **Ker Nethalas: Int
 
 **Manifest Url:** https://raw.githubusercontent.com/Forelius/kernethalascsb/main/module.json
 
-Check out GrotesqueZombie's Compendium, which contains content for this module: https://github.com/GrotesqueZombie/Vaelorian-Archive/releases
+Check out GrotesqueZombie's Compendium, which contains content for this module.<br>
+https://github.com/GrotesqueZombie/Vaelorian-Archive/releases
 
 * After enabling the module "KerNethalasCSB", import the compendiums.
 * Create masteries using the __mastery_ template.
